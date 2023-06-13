@@ -6,6 +6,7 @@
 <b>Note:</b> Data used in the projects (accessed under data directory) is for demonstration purposes only.
 
 <b> <u>Instructions for Running Python Notebooks Locally  </u> </b>
+
  -Install dependencies using requirements.txt.
  -Run notebooks as usual by using a jupyter notebook server, Vscode etc,
  - <b>Note:</b> i used Google colab to excute the code.
